@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+pcb-web/node_modules/
+
+# Python environments
+venv/
+python-api/venv/
+python-api/.venv/
+__pycache__/
+
+# Build and cache
+build/
+dist/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
